@@ -1,2 +1,1 @@
-# ADHD-Movement-Findings-via-HYPERACTIV
- 
+Read Report.pdf to understand our findings.
